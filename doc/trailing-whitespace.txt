@@ -23,4 +23,4 @@ g:extra_whitespace_ignored_filetypes
 
   let g:extra_whitespace_ignored_filetypes = ['unite', 'mkd']
 
-		The default value is [].
+		The default value is ['diff', 'qf', 'help'].
